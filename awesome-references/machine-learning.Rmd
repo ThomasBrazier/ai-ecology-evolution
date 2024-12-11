@@ -1,6 +1,12 @@
 # Awesome references and resources for Machine Learning
 
 
+## LLM
+
+https://github.com/SylphAI-Inc/LLM-engineer-handbook
+
+
+
 ## Explainability
 
 [Kaggle learn Explainability in Machine Learning](https://www.kaggle.com/learn/machine-learning-explainability)
