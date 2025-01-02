@@ -6,6 +6,10 @@
 https://github.com/SylphAI-Inc/LLM-engineer-handbook
 
 
+## Uncertainty
+
+https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning
+
 
 ## Explainability
 
