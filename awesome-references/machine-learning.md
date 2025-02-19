@@ -1,14 +1,9 @@
 # Awesome references and resources for Machine Learning
 
 
-## LLM
+## Metrics
 
-https://github.com/SylphAI-Inc/LLM-engineer-handbook
-
-
-## Uncertainty
-
-https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning
+[The Little Book of ML Metrics](https://github.com/NannyML/The-Little-Book-of-ML-Metrics)
 
 
 ## Explainability
