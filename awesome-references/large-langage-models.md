@@ -2,5 +2,4 @@
 
 
 
-
-[LLM engineer Handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook)
+* [LLM engineer Handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook)
